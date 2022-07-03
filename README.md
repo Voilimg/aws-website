@@ -4,7 +4,7 @@ portfolio
 <!DOCTYPE html>
 <html>
  <head>
-   <title>Traval</title>
+   <title>Travel</title>
  </head>
  <body>
   <main id="main-doc">
