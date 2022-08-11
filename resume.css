@@ -1,0 +1,49 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Abril Fatface', serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+header {
+    background-color: darkblue;
+    margin-top: 0px;
+}
+
+.small {
+    color: white;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'croissant One', sans-serif;
+}
+
+.section {
+    padding-left: 30px;
+    display: inline-block;
+}
+
+#lineh {
+    line-height: 30px;
+}
+
+.table {
+    display: inline-block;
+    position: relative;
+    bottom: 175px;
+    left: 200px;
+    text-align: left;
+}
+
+#year {
+    padding-left: 100px;
+}
+
+.lan {
+    line-height: 30px;
+}
