@@ -1,0 +1,60 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Abril Fatface', serif;
+    color: white;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+header {
+    background-color: pink;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 40px;
+    padding-left: 100px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'croissant One', sans-serif;
+}
+
+#logo {
+    float: right;
+    margin: 50px 100px;
+    height: 400px;
+    width: 300px;
+}
+
+#lineh {
+    line-height: 30px;
+}
+
+#pic1 {
+    height: 200px;
+    width: 300px;
+}
+
+.small {
+    color: white;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+
+.section {
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.picture {
+    text-align: center;
+    font-size: 25px;
+}
+
+.about {
+    padding-left: 50px;
+    margin: 40px;
+}
